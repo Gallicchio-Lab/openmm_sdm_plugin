@@ -2,6 +2,8 @@
 
 A plugin to implement the Single-Decoupling alchemical protocol in OpenMM
 
+This plugin is no longer supported. It has been superseded by the [ATM Meta Force plugin](https://github.com/Gallicchio-Lab/openmm-atmmetaforce-plugin). Development of the method is continuing there.
+
 ## Contributors
 
 Emilio Gallicchio <egallicchio@brooklyn.cuny.edu>  
